@@ -1,0 +1,15 @@
+* { 
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: whitesmoke;
+}
+
+img{
+    width: 100%;
+    object-fit: contain;
+}
